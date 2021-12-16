@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bengardt-pr-13", "Bengardt-pr-13\Bengardt-pr-13.csproj", "{83D47AED-E96F-456B-9B04-971062A84FB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibMas", "LibMas\LibMas.csproj", "{8E92EAF0-A8A3-4899-9F9E-BF20804CE32D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83D47AED-E96F-456B-9B04-971062A84FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D47AED-E96F-456B-9B04-971062A84FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D47AED-E96F-456B-9B04-971062A84FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D47AED-E96F-456B-9B04-971062A84FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E92EAF0-A8A3-4899-9F9E-BF20804CE32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E92EAF0-A8A3-4899-9F9E-BF20804CE32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E92EAF0-A8A3-4899-9F9E-BF20804CE32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E92EAF0-A8A3-4899-9F9E-BF20804CE32D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {297B41A3-B7F8-43A1-9AAD-2DEC8D33FB2E}
+	EndGlobalSection
+EndGlobal

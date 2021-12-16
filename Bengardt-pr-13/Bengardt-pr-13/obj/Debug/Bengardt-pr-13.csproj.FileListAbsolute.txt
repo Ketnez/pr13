@@ -1,0 +1,5 @@
+C:\Users\исп-34\source\repos\Bengardt-pr-13\Bengardt-pr-13\obj\Debug\Bengardt-pr-13.csproj.AssemblyReference.cache
+C:\Users\исп-34\source\repos\Bengardt-pr-13\Bengardt-pr-13\obj\Debug\MainWindow.g.cs
+C:\Users\исп-34\source\repos\Bengardt-pr-13\Bengardt-pr-13\obj\Debug\App.g.cs
+C:\Users\исп-34\source\repos\Bengardt-pr-13\Bengardt-pr-13\obj\Debug\Bengardt-pr-13_MarkupCompile.cache
+C:\Users\исп-34\source\repos\Bengardt-pr-13\Bengardt-pr-13\obj\Debug\Bengardt-pr-13_MarkupCompile.lref

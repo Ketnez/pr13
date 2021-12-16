@@ -1,0 +1,10 @@
+C:\Users\исп-34\source\repos\Bengardt-pr-13\LibMas\bin\Debug\netcoreapp3.1\LibMas.deps.json
+C:\Users\исп-34\source\repos\Bengardt-pr-13\LibMas\bin\Debug\netcoreapp3.1\LibMas.dll
+C:\Users\исп-34\source\repos\Bengardt-pr-13\LibMas\bin\Debug\netcoreapp3.1\LibMas.pdb
+C:\Users\исп-34\source\repos\Bengardt-pr-13\LibMas\obj\Debug\netcoreapp3.1\LibMas.csproj.AssemblyReference.cache
+C:\Users\исп-34\source\repos\Bengardt-pr-13\LibMas\obj\Debug\netcoreapp3.1\LibMas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\исп-34\source\repos\Bengardt-pr-13\LibMas\obj\Debug\netcoreapp3.1\LibMas.AssemblyInfoInputs.cache
+C:\Users\исп-34\source\repos\Bengardt-pr-13\LibMas\obj\Debug\netcoreapp3.1\LibMas.AssemblyInfo.cs
+C:\Users\исп-34\source\repos\Bengardt-pr-13\LibMas\obj\Debug\netcoreapp3.1\LibMas.csproj.CoreCompileInputs.cache
+C:\Users\исп-34\source\repos\Bengardt-pr-13\LibMas\obj\Debug\netcoreapp3.1\LibMas.dll
+C:\Users\исп-34\source\repos\Bengardt-pr-13\LibMas\obj\Debug\netcoreapp3.1\LibMas.pdb
